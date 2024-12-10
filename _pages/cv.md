@@ -11,35 +11,54 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Applied Economics, University of San Francisco, 2026
+* B.S. in Economics, University of San Francisc, 2025
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2023 & 2024: Co-Lead/Presenter, College Federal Reserve Challenge
+  * University of San Francisco
+  * Duties includes: Applied Economic Research on Monetary Policy, Economic Outlook Forecasts
+  * Supervisor: Jean Driscoll
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2024: Silk Investment Financial Lab Assistant
+  * University of San Francisco
+  * Duties includes: Facilitated Nobel Speaker Series Media Services, assisted in implementation of FactSet and Bloomberg with School of Management Curriculum
+  * Supervisor: Tim Rasmussen
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2024: Research Assistant
+  * University of San Francisco
+  * Duties includes: Economic Statistical Analysis, Fama French Factor Model Recreation/Programing, Equity and Financial Model Pricing Analysis
+  * Supervisor: Ludwig B Chincarini
+
+* Summer 2024: Administrative Assistant
+  * Flores Painting and Drywall
+  * Duties includes: Daily Adminstritative Task Execution of over 1+ million in production, Jobsite Inspections, Payroll aid, Accounting and Bookkeeping log management
+  * Supervisor: Jaime 
+
+* Spring 2022 - Fall 2024: Technology Operations Auditor
+  * Agricola Vista Alegre; Mexico
+  * Duties included: Financial Analysis and Forecasting, Capital Budgeting, Accounting Auditing and Reporting
+  * Supervisor: Benjamin Cortez
+
+* Summer 2020- Summer 2021: Project Manager Assistant
+  * Flores Painting and Drywall
+  * Duties included: Production Strategy, Project Supervision, Human Resources 
+  * Supervisor: Ernestor Contreras
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Excel
+* Programming Languages
+  * Python
+  * R
+  * STATA
+  * SQL
+  * MATLAB
+  * Lua+
+  * html
+* Bloomberg Terminal
+* Factset Software
 
 Publications
 ======
@@ -61,4 +80,9 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Mentor Collective
+  * Student Success Mentor for first generation USFCA college students (Spring 24')
+* Cognitio Economica
+  * Co-Founder of a Competitive Economics Club at the University of San Francisco
+* The Seven Kingdoms MMORPG Developer, designer
+  * $100k Gross Revanue 2021 (2018-2021)
