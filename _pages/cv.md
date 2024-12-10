@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * M.S. in Applied Economics, University of San Francisco, 2026
-* B.S. in Economics, University of San Francisc, 2025
+* B.S. in Economics, University of San Francisco, 2025
 
 Work experience
 ======
@@ -29,7 +29,7 @@ Work experience
 * Fall 2024: Research Assistant
   * University of San Francisco
   * Duties includes: Economic Statistical Analysis, Fama French Factor Model Recreation/Programing, Equity and Financial Model Pricing Analysis
-  * Supervisor: Ludwig B Chincarini
+  * Supervisor: Ludwig B. Chincarini
 
 * Summer 2024: Administrative Assistant
   * Flores Painting and Drywall
@@ -86,3 +86,5 @@ Service and leadership
   * Co-Founder of a Competitive Economics Club at the University of San Francisco
 * The Seven Kingdoms MMORPG Developer, designer
   * $100k Gross Revanue 2021 (2018-2021)
+
+## comment here to try and save the changes for committing
